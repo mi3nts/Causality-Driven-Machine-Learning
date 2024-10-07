@@ -1,0 +1,512 @@
+Combination,MSE_Test,R2_Test
+"('binCount0_OPCN3',)",2.120612632736542,0.8719216952369693
+"('pm1_OPCN3',)",2.970317232773469,0.8206022213066264
+"('rejectCountRatio_OPCN3',)",2.6243831314163955,0.8414955483469171
+"('binCount1_OPCN3',)",3.513132112961204,0.787817917
+"('pressure_BME280_centralNodeRetime',)",12.785874115403477,0.22777358941733616
+"('altitude_BME280_centralNodeRetime',)",12.77885441865635,0.2281975569281599
+"('temperature_BME280_centralNodeRetime',)",7.085078509258325,0.5720836372610985
+"('humidity_BME280_centralNodeRetime',)",11.128312045092917,0.32788510282038363
+"('pm2_5_OPCN3',)",5.412752782507403,0.6730868288800514
+"('binCount0_OPCN3', 'pm1_OPCN3')",1.652591422,0.9001886980270299
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3')",1.6605810028660999,0.8997061526063225
+"('binCount0_OPCN3', 'binCount1_OPCN3')",1.464708854476466,0.9115362116792346
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime')",0.9679810091868529,0.9415370045497308
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime')",1.1551037939211282,0.9302353794055025
+"('binCount0_OPCN3', 'temperature_BME280_centralNodeRetime')",1.1486212901599238,0.9306269021567763
+"('binCount0_OPCN3', 'humidity_BME280_centralNodeRetime')",1.2075127856512111,0.9270700418462017
+"('binCount0_OPCN3', 'pm2_5_OPCN3')",1.6473032930720715,0.9005080843383616
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3')",2.152569605349831,0.8699915950317343
+"('pm1_OPCN3', 'binCount1_OPCN3')",2.288848701550985,0.8617607680779413
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime')",1.3369780780995573,0.9192507471167176
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime')",1.3173586172745304,0.9204357005797136
+"('pm1_OPCN3', 'temperature_BME280_centralNodeRetime')",1.7462010775089138,0.8945349705409847
+"('pm1_OPCN3', 'humidity_BME280_centralNodeRetime')",1.1455664533320054,0.9308114046520494
+"('pm1_OPCN3', 'pm2_5_OPCN3')",1.9964755219647823,0.8794191846230013
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3')",1.5390489048503442,0.9070463074501922
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime')",1.4165652660065566,0.9144439323544991
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime')",1.5911062675061414,0.9039022071763082
+"('rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime')",1.396247008423776,0.9156710909344151
+"('rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime')",1.2162900906090424,0.9265399203511051
+"('rejectCountRatio_OPCN3', 'pm2_5_OPCN3')",1.9150611021411375,0.8843363584214153
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",1.8044929266954377,0.8910143269731503
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",1.9306703877557017,0.883393607
+"('binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",1.8328996553225598,0.8892986502907332
+"('binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",1.7124409390217503,0.8965739762694478
+"('binCount1_OPCN3', 'pm2_5_OPCN3')",3.094570725,0.813097703
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",12.791679600981121,0.22742295642589194
+"('pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",3.3245757132721647,0.799206128
+"('pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",4.843212347708676,0.707485272
+"('pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",2.2365018563792667,0.8649223521814156
+"('altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",2.754147316691749,0.833658201
+"('altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",4.0298202652488015,0.756611585
+"('altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",2.3796509608360523,0.856276598
+"('temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",3.229855313853363,0.8049269409970553
+"('temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",2.419639879551983,0.8538613940490737
+"('humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",3.224018606223223,0.8052794597018511
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3')",1.4460005392288071,0.9126661348273395
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3')",1.2529213745093024,0.9243275065086088
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.5623628036402486,0.9660350629624036
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.434414727,0.9737627226380547
+"('binCount0_OPCN3', 'pm1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.9460472909924846,0.9428617318479265
+"('binCount0_OPCN3', 'pm1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.7135587675119798,0.9569033043183394
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pm2_5_OPCN3')",0.9284978067060169,0.9439216652663065
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3')",1.185661535686791,0.928389788
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime')",0.7745480444563567,0.9532197446341368
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime')",0.6009826719457575,0.9637025449030548
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime')",0.9969963992036137,0.9397845666419224
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime')",0.7573286901414003,0.9542597392449997
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pm2_5_OPCN3')",1.5046107473084305,0.9091262633879433
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.5880858106789397,0.9644814745870144
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.9764253618532466,0.9410269923213602
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.6656282880048469,0.9597981538853868
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",1.3570701109392127,0.9180372517967235
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",1.1992827902606842,0.9275671075721877
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",1.0250874426694254,0.9380879563461123
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.4598718656126518,0.9722251918871794
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",1.170297436055725,0.9293177314118356
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6567323661280423,0.9603354394677212
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.4591413304608529,0.9722693139028497
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5365219822652828,0.9675957669515707
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.653964294,0.9605026223017411
+"('binCount0_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3390756983675431,0.9795208988370433
+"('binCount0_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5772312942219996,0.9651370530954916
+"('binCount0_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.9293443581566029,0.9438705362326434
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3')",1.2657082413135412,0.9235552201427562
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime')",0.7503592466945121,0.9546806716152211
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime')",1.0529113957394822,0.9364074774665632
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime')",1.4625900338550635,0.9116641817521733
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime')",0.8224596556138754,0.9503260346558078
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pm2_5_OPCN3')",1.247538153538545,0.9246526360515795
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",1.0111201188085672,0.9389315385895447
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",1.3270458839361976,0.9198506202719476
+"('pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",1.1645444115307595,0.9296651959214037
+"('pm1_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.7849216979744945,0.9525932087282899
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",1.3368546115733946,0.9192582041049114
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",1.5369661025986738,0.9071721021273682
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.4784509782287437,0.9711030721699165
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4106141185038929,0.9752002042250031
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7304206191672994,0.955884902
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.4589739737841018,0.9722794217175058
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4092312024942979,0.9752837279838472
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7118152443821283,0.9570086076082185
+"('pm1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.48748961225114174,0.9705571672247647
+"('pm1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.8398708956530528,0.9492744507533002
+"('pm1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.9426721088754841,0.9430655821868044
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.6573117784956836,0.9603004447908714
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.8922904116869718,0.9461084775592902
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.8512382495535983,0.9485878984830987
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.6521760047317325,0.9606106293041479
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",0.9840109851549713,0.9405688446341977
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",1.2259039034369927,0.9259592764228813
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.6660989926489171,0.959769725
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.49783090133719127,0.9699325860283883
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5833856008316755,0.9647653524155131
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.5948744226769614,0.9640714638651229
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4992740934629182,0.9698454217825203
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5772646856610993,0.9651350363580415
+"('rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.593234507,0.9641705095878923
+"('rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7410752306467017,0.955241397
+"('rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.784712561,0.9526058399448405
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",1.9326997580302723,0.8832710393198954
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.5654406607067676,0.9658491701174318
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5482981158091812,0.9668845256820988
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.5350371224991606,0.9072886064324229
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.42790217411874215,0.9741560602726295
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5465194691517398,0.9669919503221018
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.2713213226487479,0.9232162077598192
+"('binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.7882386635353118,0.9523928744855203
+"('binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.4563974046851218,0.9120381969937448
+"('binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.3333649400618879,0.9194689692415865
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",2.8506055213348955,0.8278324305511823
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",3.6273755773352256,0.7809179727066001
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",2.234343553036788,0.8650527068859957
+"('pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",2.180659616998789,0.8682950470544031
+"('pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.8170972421114153,0.9506499074934166
+"('pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.389180345646247,0.9160978950451263
+"('altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",2.129265441,0.8713990929258495
+"('altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7901538937376144,0.9522772006308261
+"('altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.022881024770182,0.9382212170179444
+"('temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.310699937562152,0.9208378638019618
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3')",0.868420269,0.9475501588033777
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime')",0.491113572,0.9703382914851338
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime')",0.4928030726906146,0.9702362509975352
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime')",0.5782522100298346,0.965075393
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime')",0.7886613367136718,0.9523673463606203
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pm2_5_OPCN3')",0.9358303971329072,0.9434788
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.39579807250556326,0.9760950466047301
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.3870620822664012,0.9766226728213175
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.8566213084735087,0.9482627787274873
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.34006358175785556,0.9794612338006374
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",0.701384659,0.9576385819956466
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.4635025623289774,0.9720059092735813
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.2792436991649932,0.9831345626010645
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.24228020944600345,0.9853670406256929
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.373355416,0.9774505121829289
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.27907616148712144,0.9831446813476165
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.25146763907106195,0.9848121488961323
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5358150101333619,0.9676384658352675
+"('binCount0_OPCN3', 'pm1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.22202630067770787,0.9865903127404689
+"('binCount0_OPCN3', 'pm1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.47066940697828913,0.971573054
+"('binCount0_OPCN3', 'pm1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.41886700155347173,0.9747017561567043
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.5077325699297505,0.9693345565212153
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.5033956323633307,0.9695964938513977
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.9752794831416063,0.9410961997761237
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.7310942652780832,0.9558442156416109
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",0.910704741,0.9449963102493686
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.5781701651140377,0.9650803482591687
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.34202543790621964,0.9793427438860758
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.6286896976702989,0.9620291280658433
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5175944489847883,0.9687389301764276
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.29565338813536096,0.9821434692195725
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.6234055120829398,0.9623482761844738
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.46396201698880285,0.9719781596633802
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.24226171331257115,0.9853681577337297
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.461234098,0.9721429173654293
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.9186402600917183,0.9445170299453581
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.6058652831135032,0.9634076506109395
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.20488534672695674,0.9876255722169724
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.6774890294075937,0.9590818025684864
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7064084960937046,0.9573351581268619
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.30707734766645856,0.9814534981480826
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.6879786007417936,0.958448266
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7106712705856288,0.9570777000121244
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.20489418140509816,0.9876250386303183
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4257123090246544,0.9742883212073145
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5645433125013645,0.9659033671146372
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.37146051230707294,0.9775649583671006
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.743164676,0.9551152009840735
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.0580368189378655,0.9360979180947532
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5126576088931805,0.9690370997242547
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6748877126453235,0.9592389138843014
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5890978964231088,0.9644203478048822
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5318458920446356,0.9678781880308068
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6612214203072903,0.9600643147746057
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5843036727697707,0.9647099037703118
+"('binCount0_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21246498951429413,0.9871677857339886
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.6078602901428901,0.9632871584878757
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.4442387976586368,0.9731693798123506
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.8556324999876459,0.9483224996367423
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.5373820771854178,0.9675438199351256
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",0.7758234480526023,0.9531427142854659
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.8458546072832422,0.9489130534712343
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.45758134669018286,0.9723635319951693
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.39417432895273924,0.9761931155864975
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5825914943852623,0.9648133139365791
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.6055181923607829,0.9634286137960686
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3986175416892786,0.97592476
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5847093381211396,0.9646854028644405
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.43711178663362904,0.9735998287665911
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6982874357821399,0.9578256445181653
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5798293379571281,0.9649801394601776
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",1.0697742590868085,0.9353890137841181
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.46967476444074974,0.9716331277618016
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4716209748627528,0.9715155827996929
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7156170420533272,0.9567789910373926
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.35652129781790165,0.9784672397346293
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.45596876112127493,0.9724609270699522
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6989970008824912,0.9577827890273657
+"('pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.43476304358419504,0.9737416854279405
+"('pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7850887678435515,0.9525831182359126
+"('pm1_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6699608350588903,0.9595364817282839
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.5134034025767096,0.9689920561414641
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4535631528953084,0.9726062182083476
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.8274277899444917,0.9500259750347919
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3253070290791165,0.9803524829717792
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2959420077769044,0.9821260375048692
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3036057364209394,0.9816631725017378
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3290923620737169,0.9801238608154138
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4281491660134498,0.9741411427423479
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.43565852556250184,0.973687601
+"('pm1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.43903216,0.973483844
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.5247297636491025,0.9683079797086014
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.2753235082962438,0.9833713297470609
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.38508911193605316,0.9767418339973654
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4404624213228034,0.9733974610148175
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.29012065517322194,0.9824776288145679
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.37774561522867023,0.9771853580030206
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4468958586208051,0.9730089017229377
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.41800447,0.9747538503103025
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6406907248072594,0.9613043039337086
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5784511682036445,0.9650633765601443
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.48683171816059606,0.9705969019497823
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5090765053959941,0.9692533870640639
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5762258213337687,0.9651977804820127
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3549612581190777,0.9785614612048328
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2913159932352518,0.9824054341712652
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4470527525955857,0.9729994258224327
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3491095148830328,0.9789148880127331
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.30160928941829623,0.9817837515946379
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4454371442534514,0.9730970034631707
+"('rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.45367160414760727,0.9725996680952673
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.6014380236962941,0.9636750430956152
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.7597817460549646,0.9541115824161437
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.2533895090156009,0.9242992326630973
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3003101038983203,0.9818622182963836
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3917176894043645,0.9763414888555767
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7172123335041324,0.9566826404727171
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.29855785122022294,0.9819680488234034
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5764715907456944,0.9651829367858298
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.743776996,0.9550782187543907
+"('binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6690688438828085,0.9595903551778392
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",1.969368591650715,0.8810563575929062
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.687322074,0.958487918
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.0380775850008876,0.9373033927804897
+"('pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7686509381948625,0.9535759112254888
+"('altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7783367821812385,0.9529909168428168
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime')",0.34913536378459614,0.9789133268207261
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime')",0.4049675428973811,0.9755412395561305
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime')",0.5354353740253486,0.9676613946570571
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime')",0.3874102334041786,0.9766016455922802
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pm2_5_OPCN3')",0.699741554,0.9577378203464588
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.4469110944810571,0.9730079815251031
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.33104877733491644,0.9800056995132511
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4258660398869362,0.9742790363488133
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.540078538,0.9673809622083801
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.33320416382771734,0.9798755209771783
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2679171968133025,0.9838186475667505
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.42171961990540435,0.9745294670186452
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.23764639838282955,0.9856469081773624
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7712097072512066,0.9534213696567188
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4466367421264401,0.9730245515407414
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.39237494384518584,0.9763017927633819
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.6164595607814911,0.96276779
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.21163023385954394,0.9872182023388419
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3637203946096727,0.9780324370277695
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.6149499073612166,0.9628589680014452
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2392347541190994,0.9855509765079375
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.31003190057338154,0.9812750524848767
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.22118702714430163,0.9866410022109228
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.64492249,0.9610487186660536
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5050455460500808,0.9694968442762032
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.3164064423269659,0.9808900502978499
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2475658135692042,0.9850478068319781
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.39697095664387533,0.9760242081074961
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.18539848244188545,0.9888025172677799
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.28513780001811606,0.9827785775268851
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.24953806796010392,0.9849286888964116
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.19501367673583586,0.9882217899033734
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.28092521499586715,0.9830330043561847
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.24731245376802766,0.9850631089636965
+"('binCount0_OPCN3', 'pm1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21590308139153938,0.9869601358443013
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.5126661918242533,0.9690365813423283
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.2711089593664207,0.9836258751901746
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4710637347643195,0.9715492383415167
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4677575770570046,0.97174892
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.45596325080330125,0.9724612598757527
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3159255145759912,0.9809190968149306
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.48229733,0.9708707646433291
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.1910474561168622,0.9884613371008918
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6105489965085781,0.9631247691160466
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.51833134,0.9686944243052514
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.34497740812957406,0.9791644542087997
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.5113159479943069,0.9691181318047213
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",1.0696290000858297,0.9353977869689563
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.12138025983010713,0.9926690157029411
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.29421349452913703,0.9822304342452813
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6284092110097698,0.9620460685741825
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4834109578413822,0.9708035050681086
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.29758347288438347,0.9820268981971766
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3054388640856712,0.9815524573809805
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5375228391262438,0.9675353183585162
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.32479472859475905,0.9803834243028611
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3818699505742675,0.9769362611754417
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4825831246386256,0.9708535035787272
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.17379154364216043,0.9895035397091292
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2730204537138045,0.9835104269693172
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.30123002906255475,0.9818066577221773
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2148982653570865,0.9870208235589291
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2846114212203837,0.9828103691436264
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.30350544679932273,0.9816692296781045
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5489075425299269,0.9668477182331261
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.24928116260437308,0.984944205
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.28120797864860647,0.9830159263247081
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.632914287,0.9617739761874395
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.20208704994173923,0.9877945805039843
+"('binCount0_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2078038640072509,0.9874493029917913
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.6085547317722292,0.9632452164069555
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.3690257406270623,0.9777120108860032
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.38012124417442816,0.9770418775184561
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5382237744748528,0.9674929840774634
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.38655634840872133,0.9766532175488896
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.31638679408532877,0.980891237
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3693577165793314,0.9776919605870791
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3281407579198546,0.9801813347005311
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.6127706655896137,0.9629905873210074
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4758981639005638,0.9712572540919142
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.40497408251897615,0.9755408445836424
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.39785113119875265,0.9759710483445371
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.450738756,0.9727768028471215
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2965806186380103,0.982087467
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3691936283955298,0.977701871
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3856314138764026,0.9767090806731055
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.19934183185713408,0.9879603830051357
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3921678358989608,0.9763143014291542
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3775737150458456,0.9771957402310922
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.36800405575026157,0.9777737174254262
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.4624572106810759,0.9720690452112238
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.45001969600416436,0.972820232
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.8098352353136159,0.9510885097659304
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3230709970780576,0.9804875322418206
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.30497216154582246,0.9815806447402415
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.45741531236128075,0.9723735599441922
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.32396296681539594,0.9804336600870976
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3053688264464053,0.9815566874331684
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3187565232810253,0.980748113
+"('pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.43832118325199126,0.9735267850308919
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3455302201661198,0.9791310661079272
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4375865681126943,0.9735711534649198
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.33099319387291753,0.9800090565787876
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3280127830376254,0.980189064
+"('pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3526610501264274,0.9787003865020573
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.3920964802393183,0.9763186110856098
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.4338109516189256,0.973799189
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.45778458761269947,0.9723512568854145
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.18801334497408642,0.9886445878302473
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3713236462014382,0.977573225
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4237378579827527,0.9744075718136631
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2675508782085401,0.9838407720534091
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3669745128208153,0.9778358985664081
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4205418664210872,0.9746005996089974
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.26245094039642763,0.9841487921883875
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3651466719968403,0.977946294
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.40985127526633786,0.9752462775470033
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4581702630988187,0.9723279633042633
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3447922809210482,0.9791756353074442
+"('rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4892367966763251,0.9704516428042123
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3050960087502592,0.9815731647602824
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5615733947590082,0.9660827407653712
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5189413039745594,0.968657584
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.463595186,0.972000315
+"('binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2938935304257507,0.982249759
+"('pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.7847336853190553,0.9526045640988139
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime')",0.42330908715216586,0.9744334682174973
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.2956916265117933,0.9821411597424173
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.20943841459853937,0.9873505812990362
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.37979754234287166,0.9770614280866242
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.3048184761708078,0.9815899268514554
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.27603745579682776,0.9833282095731295
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4012220996591566,0.9757674524972082
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2330353734669778,0.9859253995177071
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.44940331180435517,0.972857459
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.35879513020358056,0.9783299074407548
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.4821531929361262,0.9708794700955582
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.41985350972069124,0.9746421741794294
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.40374522402061863,0.9756150637554203
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.21018943934262357,0.9873052217767111
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.30137510482587904,0.9817978956043149
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.26536449259420997,0.9839728228385072
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.21620710394852372,0.9869417738421576
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.29434545274074475,0.9822224643861088
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2758180400527942,0.9833414615910135
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.24057722809827448,0.9854698953199889
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.2996113580582226,0.9819044203380383
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.25228216893607625,0.984762954
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.36389380465789356,0.9780219636085971
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2094930904599229,0.9873472790497101
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.28481508282397844,0.9827980686260632
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.24501809676395353,0.9852016808796922
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.21351639508414808,0.9871042841585823
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2911329583520444,0.9824164889000695
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2512996499667074,0.9848222949074181
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.12621420341784953,0.9923770607789344
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3093484280579927,0.9813163320659618
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.279028973,0.9831475313969131
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.25582627610420566,0.9845489009867007
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.195318538,0.9882033772656864
+"('binCount0_OPCN3', 'pm1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.20067384015544948,0.9878799339112536
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.3173121132909412,0.9808353506323153
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.6626365281834719,0.9599788467287023
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4499924298458152,0.9728218786019043
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.22764692590298563,0.9862508447304001
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2881366015337221,0.9825974593874803
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.30627546603531447,0.9815019292657473
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.22516018109979144,0.9864010362617787
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.286268695,0.9827102750279821
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3199285763932654,0.9806773245254029
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.24281988594036114,0.9853344458700781
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.22519236911326856,0.986399092
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.29644257256921847,0.9820958049725179
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2954346573119425,0.9821566798704149
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21517308668849264,0.9870042252185741
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21372778447075436,0.9870915169073344
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.14399477809557637,0.99130317
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2752623125369453,0.983375026
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3029025003656735,0.9817056457382056
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.32647022659552316,0.9802822295159118
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.22054953912465708,0.9866795044737134
+"('binCount0_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.22549917098140446,0.9863805623436767
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.3831973677480273,0.9768560893709811
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.37215979664878013,0.9775227238016497
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5647161881081275,0.9658929259740406
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.29198111970905566,0.9823652626331434
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.37908618864349525,0.9771043916031554
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3650709659319639,0.9779508667858733
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.29135199592387545,0.98240326
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3448244298072435,0.9791736936162648
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.37780257555145835,0.9771819177794414
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.28166925704455165,0.982988067
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2810948230754395,0.9830227605639096
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.25053452,0.9848685063624526
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.37296668491663215,0.9774739902989419
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2809128202997395,0.9830337529566804
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.291442454,0.9823977963217091
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.33712403172643396,0.9796387733375518
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3184083104361998,0.9807691437872351
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3188613319752443,0.9807417827172092
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3437433423446675,0.9792389878842371
+"('pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.34125925,0.9793890192104464
+"('pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.22382745157867331,0.986481529
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.3047273110762855,0.9815954329352068
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.38385398391417536,0.9768164318285606
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.42978997593260077,0.9740420430059609
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3085197723748051,0.9813663802518005
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.31107338284196073,0.9812121502455232
+"('rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.34623539198401165,0.9790884759575113
+"('binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4449574204078857,0.9731259772681674
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime')",0.319448627,0.9807063119639717
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.27079304294664885,0.9836449555440623
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.38573983844787246,0.976702532
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.33581453557320645,0.9797178627689783
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.45628693226982475,0.9724417105375683
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.26133731004361693,0.9842160519441386
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2112247916236882,0.9872426897692411
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3014631498994762,0.9817925779599723
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.19768641227262293,0.9880603651191637
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.23273440735916395,0.985943577
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.2167835950745867,0.986906956
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4576100494222771,0.9723617984408124
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.4432180192481289,0.9732310316040726
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21671723345683547,0.9869109636311716
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21812365777912862,0.9868260200444948
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.20374429492360227,0.9876944881417219
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.28776781007838675,0.9826197332265026
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2583850963516755,0.9843943563261484
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.33795518944608566,0.9795885740366137
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.32554111788874845,0.980338345
+"('binCount0_OPCN3', 'pm1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21088434783250284,0.9872632514988889
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.14463492633426114,0.991264507
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.5051519389638213,0.9694904184802703
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.31999398798129647,0.9806733738720975
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21825110651565424,0.9868183225433735
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3344989399416174,0.9797973205896319
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.34459775440101137,0.979187384
+"('binCount0_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2272509012933583,0.986274763
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.29084100190056134,0.9824341221475534
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3639629864773274,0.9780177852452239
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3693917206442964,0.9776899068489618
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.27680587714322896,0.9832817993509742
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.27268234814692177,0.9835308474776029
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2747221162580162,0.9834076519265882
+"('pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3672243165146488,0.9778208112123408
+"('rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.3147705695977243,0.9809888518435612
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime')",0.21850100920044227,0.9868032292105652
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.19385366202830673,0.988291851
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2658823760029531,0.9839415443164269
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21574026318762662,0.9869699695495334
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21660983308432366,0.9869174502744321
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21710354470608637,0.9868876316519355
+"('binCount0_OPCN3', 'pm1_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.21312808895004864,0.9871277366225621
+"('binCount0_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.22739574457735812,0.9862660152890764
+"('pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.2866751585326116,0.9826857259285734
+"('binCount0_OPCN3', 'pm1_OPCN3', 'rejectCountRatio_OPCN3', 'binCount1_OPCN3', 'pressure_BME280_centralNodeRetime', 'altitude_BME280_centralNodeRetime', 'temperature_BME280_centralNodeRetime', 'humidity_BME280_centralNodeRetime', 'pm2_5_OPCN3')",0.19638121053265123,0.9881391951815942

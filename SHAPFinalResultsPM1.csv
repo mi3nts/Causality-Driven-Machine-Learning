@@ -1,0 +1,1024 @@
+Combination,MSE_Test,R2_Test
+"('Reject Count Ratio',)",2.6243831314163955,0.8414955483469171
+"('PM1_OPCN3',)",2.970317232773469,0.8206022213066264
+"('Bin 0',)",2.120612632736542,0.8719216952369693
+"('Reject Count Glitch',)",9.629385684120999,0.4184155204526514
+"('Bin 1',)",3.513132112961204,0.787817917
+"('OPCN3 Interior Temperature',)",7.195053350775144,0.5654415042045389
+"('Ambient Temperature',)",7.085078509258325,0.5720836372610985
+"('Bin 3',)",7.153475048950626,0.567952702
+"('OPCN3 Interior Humidity',)",12.350866063976614,0.25404670168920096
+"('Bin 2',)",5.421578697638116,0.6725537714840548
+"('Reject Count Ratio', 'PM1_OPCN3')",2.199700558963581,0.8671450343032318
+"('Reject Count Ratio', 'Bin 0')",1.440645435110986,0.9129895662012038
+"('Reject Count Ratio', 'Reject Count Glitch')",1.8345499987411296,0.8891989747610942
+"('Reject Count Ratio', 'Bin 1')",1.5390489048503442,0.9070463074501922
+"('Reject Count Ratio', 'OPCN3 Interior Temperature')",1.4377621535552183,0.9131637072999205
+"('Reject Count Ratio', 'Ambient Temperature')",1.396247008423776,0.9156710909344151
+"('Reject Count Ratio', 'Bin 3')",1.6742632627548497,0.8988797873263906
+"('Reject Count Ratio', 'OPCN3 Interior Humidity')",0.9151744007047313,0.9447263569049261
+"('Reject Count Ratio', 'Bin 2')",1.4954323648427166,0.9096806086976562
+"('PM1_OPCN3', 'Bin 0')",1.410678249301738,0.9147994895684971
+"('PM1_OPCN3', 'Reject Count Glitch')",1.7030310987310284,0.897142301
+"('PM1_OPCN3', 'Bin 1')",2.288848701550985,0.8617607680779413
+"('PM1_OPCN3', 'OPCN3 Interior Temperature')",1.5854547995379313,0.904243538
+"('PM1_OPCN3', 'Ambient Temperature')",1.7462010775089138,0.8945349705409847
+"('PM1_OPCN3', 'Bin 3')",1.851403951217901,0.8881810492670845
+"('PM1_OPCN3', 'OPCN3 Interior Humidity')",0.9587845773933924,0.9420924399818282
+"('PM1_OPCN3', 'Bin 2')",2.0027863627998994,0.8790380297702415
+"('Bin 0', 'Reject Count Glitch')",1.7551342542463007,0.8939954348827459
+"('Bin 0', 'Bin 1')",1.464708854476466,0.9115362116792346
+"('Bin 0', 'OPCN3 Interior Temperature')",1.0467101188822077,0.9367820150011344
+"('Bin 0', 'Ambient Temperature')",1.1486212901599238,0.9306269021567763
+"('Bin 0', 'Bin 3')",1.7020772311664456,0.8971999114886745
+"('Bin 0', 'OPCN3 Interior Humidity')",0.897022881,0.9458226513845382
+"('Bin 0', 'Bin 2')",1.7863266840466319,0.8921115106484973
+"('Reject Count Glitch', 'Bin 1')",2.478329796143164,0.8503167084673502
+"('Reject Count Glitch', 'OPCN3 Interior Temperature')",1.0756979492455438,0.9350312416093418
+"('Reject Count Glitch', 'Ambient Temperature')",1.0516582416114046,0.9364831640176349
+"('Reject Count Glitch', 'Bin 3')",4.007604518380617,0.7579533456742258
+"('Reject Count Glitch', 'OPCN3 Interior Humidity')",5.399513198191331,0.6738864579536468
+"('Reject Count Glitch', 'Bin 2')",3.2649504369256586,0.8028073064163874
+"('Bin 1', 'OPCN3 Interior Temperature')",1.6534777917171561,0.9001351641232238
+"('Bin 1', 'Ambient Temperature')",1.8328996553225598,0.8892986502907332
+"('Bin 1', 'Bin 3')",3.101150537627348,0.8127003029489084
+"('Bin 1', 'OPCN3 Interior Humidity')",1.6197615601379296,0.9021715180131337
+"('Bin 1', 'Bin 2')",3.013741754805841,0.817979517
+"('OPCN3 Interior Temperature', 'Ambient Temperature')",6.005247612943954,0.6373020126002171
+"('OPCN3 Interior Temperature', 'Bin 3')",2.828951349892446,0.8291402741085498
+"('OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",2.841128344604249,0.8284048220907132
+"('OPCN3 Interior Temperature', 'Bin 2')",2.016173032250889,0.8782295172190864
+"('Ambient Temperature', 'Bin 3')",2.8401046951231863,0.828466647
+"('Ambient Temperature', 'OPCN3 Interior Humidity')",3.0213610309033245,0.8175193371286227
+"('Ambient Temperature', 'Bin 2')",2.1347763550412946,0.8710662511478778
+"('Bin 3', 'OPCN3 Interior Humidity')",4.462412942544531,0.7304843534313146
+"('Bin 3', 'Bin 2')",4.502926770746216,0.7280374461765764
+"('OPCN3 Interior Humidity', 'Bin 2')",2.6267696215951846,0.8413514118781843
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0')",1.2629043023591981,0.9237245691989615
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch')",1.6306909098515405,0.9015114198123251
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1')",1.265487318055713,0.9235685632097116
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature')",1.2842204873552887,0.922437139
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature')",1.5215773782300408,0.9081015324717762
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 3')",1.1359902225572256,0.9313897787429698
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Humidity')",0.7161245490977481,0.9567483392149422
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 2')",1.1665308027216768,0.9295452241677692
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch')",1.256029698681292,0.9241397735467012
+"('Reject Count Ratio', 'Bin 0', 'Bin 1')",1.1869945447011263,0.9283092787898273
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature')",0.7515308027143092,0.9546099133321504
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature')",0.7432562786020703,0.9551096684522775
+"('Reject Count Ratio', 'Bin 0', 'Bin 3')",1.1993919039049048,0.9275605174527276
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Humidity')",0.6698536351293342,0.959542956
+"('Reject Count Ratio', 'Bin 0', 'Bin 2')",1.2212227234726925,0.9262420049065576
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1')",1.390976571288538,0.915989409
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.48982317003372383,0.9704162277055683
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature')",0.5967217956028359,0.9639598883755881
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 3')",1.4606145360705876,0.9117834955784672
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.6265562990511706,0.962157979
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 2')",1.1794488034835444,0.9287650177250808
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature')",1.0741568478215795,0.9351243192675629
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature')",0.8512382495535983,0.9485878984830987
+"('Reject Count Ratio', 'Bin 1', 'Bin 3')",1.1319023253905525,0.9316366748196367
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Humidity')",0.5822197476629589,0.9648357662643917
+"('Reject Count Ratio', 'Bin 1', 'Bin 2')",1.299890990248862,0.92149069
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature')",1.2077392984085862,0.9270563611911288
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Bin 3')",0.9088552918383583,0.945108011
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.46758375349112563,0.9717594182184057
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Bin 2')",1.2400360253908844,0.9251057408951677
+"('Reject Count Ratio', 'Ambient Temperature', 'Bin 3')",0.9006055793693337,0.945606268
+"('Reject Count Ratio', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.5985878082066142,0.963847187
+"('Reject Count Ratio', 'Ambient Temperature', 'Bin 2')",0.8344867258169243,0.9495996376047421
+"('Reject Count Ratio', 'Bin 3', 'OPCN3 Interior Humidity')",0.6679737375193411,0.9596564961431446
+"('Reject Count Ratio', 'Bin 3', 'Bin 2')",1.4044771899851491,0.9151740139642981
+"('Reject Count Ratio', 'OPCN3 Interior Humidity', 'Bin 2')",0.5184801762997839,0.9686854350442966
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch')",1.330199266628588,0.9196601659177316
+"('PM1_OPCN3', 'Bin 0', 'Bin 1')",0.9810754292757983,0.9407461429369323
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature')",0.7173662829570089,0.9566733424120344
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature')",0.7020587460190185,0.9575978692920735
+"('PM1_OPCN3', 'Bin 0', 'Bin 3')",0.9096483794982374,0.9450601111310806
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Humidity')",0.4971471016288385,0.9699738853708949
+"('PM1_OPCN3', 'Bin 0', 'Bin 2')",1.0040550163223974,0.9393582484635862
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1')",1.2189228130198384,0.9263809122333182
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.49609487896903615,0.9700374362959532
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature')",0.5864559831319398,0.9645799110228128
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 3')",0.9168357418642404,0.9446260171464723
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.5634671834467045,0.9659683619104331
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 2')",1.0094896777193676,0.9390300120813541
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature')",1.2258868289774087,0.9259603076663081
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature')",1.1645444115307595,0.9296651959214037
+"('PM1_OPCN3', 'Bin 1', 'Bin 3')",1.6932425511850608,0.8977334982539666
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Humidity')",0.8657044274183712,0.9477141870335306
+"('PM1_OPCN3', 'Bin 1', 'Bin 2')",1.4973974702820276,0.9095619225361846
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature')",1.3941729651134156,0.9157963565992024
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3')",1.0909620284677342,0.9341093394380697
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.5764512365950843,0.9651841661122351
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 2')",1.0590616370403936,0.9360360223183931
+"('PM1_OPCN3', 'Ambient Temperature', 'Bin 3')",1.0352121774294714,0.9374764543470091
+"('PM1_OPCN3', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.4605874106639038,0.9721819752262338
+"('PM1_OPCN3', 'Ambient Temperature', 'Bin 2')",1.0336722699222007,0.93756946
+"('PM1_OPCN3', 'Bin 3', 'OPCN3 Interior Humidity')",0.6801317811397218,0.9589221887113701
+"('PM1_OPCN3', 'Bin 3', 'Bin 2')",1.7770373859154673,0.8926725549140606
+"('PM1_OPCN3', 'OPCN3 Interior Humidity', 'Bin 2')",0.6872099395556724,0.9584946903004089
+"('Bin 0', 'Reject Count Glitch', 'Bin 1')",1.2829662098810222,0.9225128933530093
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.7501650972706925,0.9546923976271715
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature')",0.7653137297208488,0.9537774680762754
+"('Bin 0', 'Reject Count Glitch', 'Bin 3')",1.355676609,0.9181214149285551
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.541238931,0.9673108781692462
+"('Bin 0', 'Reject Count Glitch', 'Bin 2')",1.5540340064903708,0.9061412546436928
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature')",0.6811573882695556,0.958860245
+"('Bin 0', 'Bin 1', 'Ambient Temperature')",0.6656282880048469,0.9597981538853868
+"('Bin 0', 'Bin 1', 'Bin 3')",1.5541288211837667,0.9061355281356972
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Humidity')",0.6430403672906783,0.9611623929493874
+"('Bin 0', 'Bin 1', 'Bin 2')",1.4081946948979602,0.9149494884098281
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.9723791984582733,0.9412713678100385
+"('Bin 0', 'OPCN3 Interior Temperature', 'Bin 3')",0.5871916142811642,0.9645354812249946
+"('Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.24039580382286255,0.9854808527731695
+"('Bin 0', 'OPCN3 Interior Temperature', 'Bin 2')",0.62690434,0.9621369580480541
+"('Bin 0', 'Ambient Temperature', 'Bin 3')",0.5942895792970715,0.9641067865579579
+"('Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.5038328947478696,0.9695700845845264
+"('Bin 0', 'Ambient Temperature', 'Bin 2')",0.6105520271649288,0.9631245860739758
+"('Bin 0', 'Bin 3', 'OPCN3 Interior Humidity')",0.6636029802665991,0.9599204760755566
+"('Bin 0', 'Bin 3', 'Bin 2')",1.623522682119273,0.9019443581254951
+"('Bin 0', 'OPCN3 Interior Humidity', 'Bin 2')",0.8801541930267087,0.9468414668324108
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.5594456250681106,0.9662112513338406
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.5454649495227339,0.9670556399768446
+"('Reject Count Glitch', 'Bin 1', 'Bin 3')",2.4434762078712198,0.8524217551089985
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.9080486306367178,0.9451567309092839
+"('Reject Count Glitch', 'Bin 1', 'Bin 2')",1.9328458080825741,0.8832622183580561
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.9737105169753378,0.9411909603767652
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.6785408346942263,0.9590182768514492
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.5939034135468699,0.96413011
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.651614449,0.960644545
+"('Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.6889401476599706,0.9583901911960158
+"('Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.7424492084293183,0.9551584129414668
+"('Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.6067159697615784,0.9633562718244095
+"('Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",1.8821004279697293,0.8863270790304277
+"('Reject Count Glitch', 'Bin 3', 'Bin 2')",2.4283807280679652,0.853333474
+"('Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",1.2580165313487168,0.9240197751292801
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",1.4799792156011897,0.9106139301008919
+"('Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",1.1735278814756862,0.9291226227122877
+"('Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.5889115243729524,0.9644316040880292
+"('Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",1.3123451931922572,0.9207384955586755
+"('Bin 1', 'Ambient Temperature', 'Bin 3')",1.4254021207565626,0.9139102142400515
+"('Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.6756930373652972,0.9591902748149468
+"('Bin 1', 'Ambient Temperature', 'Bin 2')",1.2388477128522122,0.9251775112190508
+"('Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",1.250176442373454,0.9244932917393586
+"('Bin 1', 'Bin 3', 'Bin 2')",2.690881444214393,0.8374792602982231
+"('Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",1.287372981686891,0.9222467382553455
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",2.7304288139374835,0.8350907240828965
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",2.7928158930886946,0.8313227415605569
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",2.0371156756109943,0.8769646477104304
+"('OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",1.3981347089260137,0.9155570797866485
+"('OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",1.6688175433939847,0.8992086915747137
+"('OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.9683288422846621,0.9415159965293031
+"('Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",1.4201311757217463,0.9142285626711306
+"('Ambient Temperature', 'Bin 3', 'Bin 2')",1.8804146019751773,0.8864288975955793
+"('Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.9834375952647083,0.9406034755724366
+"('Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",2.105230496048402,0.8728507277062835
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch')",1.4457942158334203,0.9126785961087193
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1')",0.8677851353620846,0.947588519
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature')",0.4536046187457105,0.972603714
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature')",0.5865400550477716,0.9645748333446497
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 3')",0.8891214905923825,0.9462998703839188
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Humidity')",0.3973594383421861,0.9760007450399923
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 2')",0.8839298521025446,0.9466134289501823
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1')",1.4488257491326677,0.9124955010729704
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.4475073744813465,0.9729719680965202
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature')",0.5572847813819855,0.9663417594671528
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 3')",1.2260424766439177,0.925950907
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.42930259218836087,0.9740714794446426
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 2')",1.3180465741601852,0.9203941501568289
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature')",0.6933727247198832,0.9581224775425172
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature')",0.8772524000283679,0.9470167259637878
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Bin 3')",0.8989525472112099,0.9457061056169214
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Humidity')",0.4650034667451955,0.9719152593876601
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Bin 2')",1.074923723,0.9350780024377845
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature')",1.0646533858507603,0.9356982983525747
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3')",0.8930682841577936,0.9460614965190725
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.4301852015547682,0.9740181726267578
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 2')",0.8249590030036154,0.9501750819680089
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'Bin 3')",0.8139916984006067,0.9508374725242513
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.4334527563305321,0.9738208226393346
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'Bin 2')",1.0427555328417568,0.9370208595068596
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 3', 'OPCN3 Interior Humidity')",0.42344311367808396,0.9744253734386736
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 3', 'Bin 2')",1.1738249940184677,0.9291046780531755
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Humidity', 'Bin 2')",0.4776106026660133,0.9711538281994606
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1')",1.4627299168609977,0.9116557332604551
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.41109573288866136,0.975171116
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature')",0.7907272396903867,0.9522425723462727
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 3')",0.9207602176293337,0.9443889912062712
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.4529988110349778,0.9726403026741581
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 2')",1.3441970731303896,0.9188147426190699
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature')",0.52909084,0.9680445844758903
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature')",0.5002523336399449,0.9697863391657375
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Bin 3')",1.260970606464488,0.9238413583231506
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Humidity')",0.4498962590872726,0.9728276870119513
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Bin 2')",1.489693121705981,0.9100272408549057
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.5567345386725654,0.9663749923887825
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3')",0.45460237408178245,0.9725434525312113
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.21653057999089728,0.9869222369109429
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 2')",0.6922409572106203,0.9581908327252293
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'Bin 3')",0.49367238846860895,0.9701837470704009
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.23894971708222462,0.9855681918446351
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'Bin 2')",0.6962168738805841,0.9579506999168573
+"('Reject Count Ratio', 'Bin 0', 'Bin 3', 'OPCN3 Interior Humidity')",0.47463641855793803,0.9713334595252081
+"('Reject Count Ratio', 'Bin 0', 'Bin 3', 'Bin 2')",1.208461330206494,0.9270127527511745
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Humidity', 'Bin 2')",0.49840514125194835,0.9698979037513548
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.4224693008585966,0.9744841886570454
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.7531625044018472,0.9545113637041831
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",1.312421366817417,0.9207338949123209
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.4730649862687384,0.9714283690718851
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",1.550806102365249,0.9063362098570594
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.4835082168059087,0.9707976309338574
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.3955325760876653,0.9761110817497632
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.20638413074229334,0.9875350503965669
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.4227690448457457,0.9744660850670053
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.38701648230939756,0.9766254269146866
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2129954005351462,0.9871357505837072
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.4224923423411875,0.9744827970242766
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.5140357875851136,0.9689538620844338
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",1.5264481603688078,0.9078073526156474
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.5067866381892964,0.9693916878104798
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.8159993557533699,0.9507162163616135
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.7990949861154654,0.951737187
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.3841067408681442,0.9768011661069094
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.6285628394279246,0.96203679
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'Bin 3')",1.0661493852892647,0.9356079447118144
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.4157278261139295,0.974891352
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.7977038244873547,0.9518212086610636
+"('Reject Count Ratio', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.5154914821406156,0.9688659427312981
+"('Reject Count Ratio', 'Bin 1', 'Bin 3', 'Bin 2')",1.0989041524713141,0.9336296602345731
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.5685828204735013,0.9656593935924761
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.7930185440104071,0.9521041848027516
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.423574256,0.9744174528404574
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.8646145585357764,0.9477800116715346
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.44859461265594797,0.9729063023449694
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.8132282292621987,0.9508835836486862
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.4506184501771037,0.972784069
+"('Reject Count Ratio', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.475234081,0.9712973625935555
+"('Reject Count Ratio', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.9462019272951684,0.942852392
+"('Reject Count Ratio', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.410324144,0.9752177177490583
+"('Reject Count Ratio', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.49401951934922517,0.9701627814616736
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1')",0.7622107762562702,0.9539648766644195
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.5533481938389007,0.9665795169204878
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature')",0.7648438309667374,0.9538058484767822
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3')",0.739036413,0.9553645349877344
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.349607758,0.9788847956884135
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 2')",0.7737206283101914,0.9532697179558546
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature')",0.6970805834466505,0.9578985345872155
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature')",0.8565121132643209,0.9482693737732137
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3')",1.1624504150526858,0.929791667
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Humidity')",0.29849735116069004,0.9819717028359012
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 2')",0.8488154814208677,0.9487342260256605
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.55455938,0.966506365
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3')",0.4961736309300105,0.9700326799262595
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.17193178265555117,0.9896158633984028
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 2')",0.6957635661934493,0.957978078
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3')",0.4943146724118185,0.9701449551489755
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.20865744101972422,0.9873977496363814
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 2')",0.5157517556580573,0.9688502230329553
+"('PM1_OPCN3', 'Bin 0', 'Bin 3', 'OPCN3 Interior Humidity')",0.34086579173538956,0.9794127828518878
+"('PM1_OPCN3', 'Bin 0', 'Bin 3', 'Bin 2')",0.8719570324364465,0.9473365494401741
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Humidity', 'Bin 2')",0.33841073498516516,0.9795610605249582
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.46302282253160754,0.9720348840420165
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.6120838021581678,0.9630320717027117
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",1.093616256536142,0.9339490324464919
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.422830102,0.974462397
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",1.3414499309585892,0.9189806613290105
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.47663372464830767,0.971212829
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.542398114,0.9672408671753105
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.1699875974879782,0.989733286
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.5968971447323326,0.9639492978420314
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.4195806509218978,0.9746586539890135
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.17703261329026862,0.9893077893397593
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.4712959129615516,0.9715352155117716
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.34773200831972123,0.9789980850581083
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",0.780863116,0.9528383342874202
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.2667595382168723,0.9838885664893469
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.9490098560194749,0.9426828022779761
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.7105184574574751,0.957086929
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.36545651303942733,0.9779275809583874
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.9489786641235859,0.9426846861699637
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.7283908183594674,0.9560074952962767
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.3582000872949218,0.9783658461529108
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.8395743274780726,0.9492923625343165
+"('PM1_OPCN3', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.6702935358232833,0.9595163876529968
+"('PM1_OPCN3', 'Bin 1', 'Bin 3', 'Bin 2')",1.3632199334943533,0.9176658219394754
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.6768879740902298,0.9591181044111371
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.7131381797799168,0.9569287064888703
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.5576358082297416,0.9663205585543162
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",1.1014815847950274,0.9334739914634045
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.44498084687365713,0.9731245623836307
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.8839434227723294,0.9466126093245921
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.47310757482427046,0.971425797
+"('PM1_OPCN3', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.44991953492237974,0.9728262812250309
+"('PM1_OPCN3', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.7910961340873701,0.952220292
+"('PM1_OPCN3', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.5105974532154522,0.969161527
+"('PM1_OPCN3', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.7341150252900185,0.9556617712783868
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.7269905977570291,0.9560920641978696
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.6859960831069036,0.9585680033957776
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",1.5300104988339056,0.9075921986245041
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.38577899077499295,0.976700167
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",1.5961417499272263,0.9035980799433565
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.47233711087721747,0.9714723304464359
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.2871675944149421,0.9826559843567089
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.20722620283002627,0.9874841919022713
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.38374092229187284,0.9768232603934266
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.3659599489037853,0.9778971750223534
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.20362459434576147,0.9877017176785323
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.7280271058788855,0.9560294623812667
+"('Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.4585547815763815,0.9723047396027743
+"('Bin 0', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",1.6468820417020058,0.9005335265905318
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.4429376052485988,0.9732479677239171
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.49966432444497244,0.9698218530638039
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.7873184543447638,0.9524484522140189
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.23993502034793504,0.9855086826396056
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.5288063551128431,0.9680617664606808
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.7715559403071667,0.9534004582737647
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.20915902154415708,0.9873674557570185
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.3991270820860279,0.9758939849412166
+"('Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.5590464424023169,0.9662353607059797
+"('Bin 0', 'Bin 1', 'Bin 3', 'Bin 2')",1.484361261999036,0.9103492683397738
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.5766321831640319,0.965173238
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.5219604437069499,0.9684752378858195
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.20710442983673888,0.9874915466064287
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5349172526477666,0.9676926875517037
+"('Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.33591827858303563,0.9797115970188716
+"('Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5069823101872059,0.9693798698398637
+"('Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2238582221528986,0.9864796704697499
+"('Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16546293180536126,0.9900065615569761
+"('Bin 0', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4687942688698327,0.9716863069131155
+"('Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.22993442845304576,0.9861126868017761
+"('Bin 0', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.5995770450301878,0.9637874403288843
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.47514313940376757,0.9713028551866694
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.41625003985539966,0.974859812
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.25504974934955027,0.9845958007499125
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.43666879447937074,0.973626584
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.7833024725494719,0.9526910048294093
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2702273299732288,0.9836791228207725
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.5966826353284276,0.9639622535324691
+"('Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.793895341,0.9520512290170657
+"('Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",1.908935209096843,0.8847063430117931
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.8304038049165998,0.9498462331306399
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.66839203,0.9596312325988596
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.5426257946137181,0.9672271159654778
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.642078242,0.9612205022854855
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.33893363467244353,0.979529479
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.6280525208487525,0.9620676115332517
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2511426638120732,0.9848317763752951
+"('Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.4070682807969074,0.9754143616224762
+"('Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5023379134452592,0.9696603767330947
+"('Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.26246359610284814,0.9841480278236945
+"('Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",1.196444214007445,0.9277385486118397
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",1.245180944150528,0.9247950040530373
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.5206358303470573,0.9685552403487788
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",1.4534027889334424,0.9122190623262297
+"('Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.6629877938727962,0.9599576313905893
+"('Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",1.271468344622175,0.9232073280970138
+"('Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.5282230785980291,0.9680969945198143
+"('Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.674533709,0.9592602945950133
+"('Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",1.5320520661147514,0.9074688944093194
+"('Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.5332307090064925,0.9677945494604505
+"('Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",1.2392523661093628,0.9251530714404732
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",1.7181686963811889,0.8962280378168677
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",1.6607969507653906,0.8996931100353072
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.7626450979723008,0.9539386450046377
+"('OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.9120699129044704,0.944913858
+"('Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.760794014,0.954050445
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1')",0.781904286,0.9527754508886072
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature')",0.417753267,0.9747690222236323
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature')",0.4147547450442905,0.9749501234607163
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3')",0.7431558231041945,0.9551157356470463
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity')",0.3420024105923873,0.9793441346630962
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 2')",0.7946397223927656,0.9520062707491779
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature')",0.38124820226776784,0.9769738128092745
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature')",0.74420012,0.9550526634177529
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3')",0.7501036040601998,0.9546961116228502
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Humidity')",0.30233283128853083,0.9817400519510848
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 2')",0.8291941166907623,0.9499192944785094
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.4904327840965869,0.9703794089417235
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3')",0.5224113573114276,0.9684480041283833
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.24738064072057925,0.9850589906871405
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 2')",0.5512916129395591,0.966703728
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3')",0.5261195454510921,0.9682240412775831
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.20203866730967426,0.9877975026621376
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 2')",0.5602235906416744,0.9661642646705113
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 3', 'OPCN3 Interior Humidity')",0.3398603119848098,0.9794735106528731
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 3', 'Bin 2')",0.8608992307041053,0.9480044057371803
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Humidity', 'Bin 2')",0.3273381552058182,0.980229809
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.43718860220057165,0.9735951893489806
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.5903565178946298,0.9643443310435359
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",1.0848740294213597,0.9344770353506667
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.33385723960304825,0.9798360772631803
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",0.9695183397675178,0.9414441546385343
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.6101026284779401,0.9631517283351807
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.3810631064963191,0.976984992
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.18528348545268855,0.9888094627226932
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.5560177099549805,0.966418287
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.46092716315875976,0.9721614552487007
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2035890677241129,0.987703863
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.4374122245763631,0.9735816832638255
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.3008095847002416,0.9818320512336283
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",0.7409686381975515,0.9552478347068754
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.3148341335123759,0.9809850127838918
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.6639192746509079,0.9599013728938048
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.7561002772391523,0.954333932
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.28467588638336083,0.982806476
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.587954733,0.9644893912619524
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.5883460780683258,0.9644657552587867
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.3960131534579467,0.9760820563945697
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.8006770492334551,0.951641635
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.3927141851957035,0.9762813036573523
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Bin 3', 'Bin 2')",0.8768465438885952,0.9470412383926763
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.40454728006797247,0.9755666221035674
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.6650060364321215,0.959835736
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.4293259307778529,0.9740700698675555
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.8299447674127407,0.9498739575459382
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.37299931800563796,0.9774720193634422
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5702359349749433,0.9655595506981844
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.36964926964310285,0.9776743517029388
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.31115311770056325,0.9812073345119174
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.8821803090118205,0.9467190958266832
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.37876876293185896,0.9771235631135045
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.369510217,0.9776827500327903
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.7494796288501306,0.9547337977546246
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.7434488928551197,0.9550980351597926
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",1.3895296402432833,0.9160767987547616
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.45416357439285054,0.972569955
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",1.4559143850104055,0.9120673698564118
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.7242472529357612,0.9562577535598324
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.36236845172438037,0.9781140901077388
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.1731898970873098,0.9895398772606566
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.5382916019190821,0.9674888875140746
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.377574892,0.9771956691245087
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.17048503330683948,0.9897032424893031
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.3941268153001496,0.9761959852610353
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.38891878337023705,0.9765105339392983
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",1.4299245623685235,0.913637073
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.3930706797038222,0.9762597725151002
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.4738582415993296,0.9713804589555264
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.47066231719363477,0.9715734826948521
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.2354599890953129,0.9857789603922462
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.4376734722996035,0.9735659047265297
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.641465751,0.9612574947771567
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.1953025547203992,0.9882043425855677
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.6993880108170356,0.9577591732623792
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.41980409913823313,0.9746451584225396
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Bin 3', 'Bin 2')",1.2955782850323183,0.9217511638508902
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.4355484071676159,0.9736942519481836
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.4897216290504167,0.9704223604602286
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2546906038741881,0.9846174920022127
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.7625670336793168,0.9539433598413568
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.20599456279258588,0.9875585790702238
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5182772835276307,0.9686976891268693
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.24486103912195606,0.9852111666651802
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19801995350191498,0.9880402202824515
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.8027315446823184,0.9515175502420514
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.252146749,0.9847711327998973
+"('Reject Count Ratio', 'Bin 0', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.4614269303450387,0.9721312708892347
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.4187611848537869,0.9747081471511282
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.35313919257980114,0.978671508
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.19381522016244443,0.988294173
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.3803496801877872,0.9770280807047966
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.7531830630024406,0.9545101220296445
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.1937965299637869,0.9882953017238753
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.5658861391767783,0.9658222646249497
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.43133303090238495,0.9739488473597427
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",1.554127748781411,0.9061355929054122
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.43496771251340566,0.9737293240710919
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.38899645774056224,0.976505843
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.23055030275455685,0.9860754899392907
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.42699739613603105,0.9742107060049163
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.20794396893388054,0.9874408410967641
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.37399971474882787,0.9774115985600478
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.23154715215374502,0.9860152833842692
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.21052325106054567,0.9872850606033401
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6272138321914941,0.9621182656790337
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.20421794393198547,0.9876658812377027
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.36749992272183485,0.9778041654679678
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.6982813697429051,0.9578260108877747
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.41984480633400767,0.9746426998364942
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.8498978765630625,0.9486688527779698
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.3578676430646967,0.9783859247343444
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.9343997050950469,0.9435652092455881
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.312918313,0.9811007222883471
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.35689504414678985,0.978444667
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.7055871453180588,0.9573847651193585
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.3600008851868845,0.9782570836483105
+"('Reject Count Ratio', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.49432385599874834,0.9701444004893326
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.3734419149727765,0.977445288
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.7898193668063158,0.952297405
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.46410573881828837,0.9719694793188449
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3908071896102664,0.97639648
+"('Reject Count Ratio', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3934479163685604,0.9762369886121053
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.4879312446189636,0.9705304940247065
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.7485851953673132,0.9547878187117924
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",0.6496833621446501,0.9607611770430443
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.2808364349330906,0.9830383663915521
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",1.2033654958383277,0.9273205250510997
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.5064069644845893,0.9694146189029911
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.3330247392490339,0.979886358
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.17767997618142825,0.9892686906659203
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.5370349740299577,0.9675647838693412
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.36677465041144375,0.9778479696246405
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16712043374892122,0.9899064536750388
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.410860847,0.9751853025906403
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.26887357834994374,0.9837608851428035
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",0.8871187881208095,0.9464208272873835
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.30612675513685855,0.9815109109342898
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.5344401051134897,0.9677215057556362
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.6673701303897133,0.9596929521071959
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.19117773169421476,0.9884534688675135
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.6974930951330902,0.95787362
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.6580002803120283,0.9602588614558943
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.18420257029512419,0.988874747
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.8464536234611869,0.9488768747861636
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.27925897091504814,0.9831336402355991
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3', 'Bin 2')",0.7622625718930545,0.9539617483715616
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.3369990826984928,0.9796463198641703
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.49736374726246485,0.9699608006589296
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16354513370534823,0.9901223905045808
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.38480561348346354,0.9767589564084319
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19508242945574628,0.9882176374562559
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.39462268481819707,0.9761660363084191
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2337352721402147,0.9858831278485722
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19987307797554232,0.9879282974175997
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.49441762013274476,0.9701387374318065
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.23835980681521263,0.9856038205614478
+"('PM1_OPCN3', 'Bin 0', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.35712970524806503,0.9784304938475882
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.47581375098559053,0.9712623523653485
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.40773279355773856,0.9753742271506793
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.16951181566308948,0.9897620217609403
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.4482388022829406,0.9729277921676218
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.5387889902713944,0.9674588468286662
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.22831671706528145,0.9862103914598274
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.47085430454437494,0.9715618872652865
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.36299547871335297,0.97807622
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",0.9446198664431844,0.9429479437819823
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.3820332314057922,0.9769263995289632
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.39623333742176897,0.9760687579786369
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16955952115778924,0.98975914
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.43179213249202686,0.9739211190738656
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17538793407868958,0.9894071227691873
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.38772659668581855,0.9765825382493473
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17528861980760982,0.9894131210374624
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.21689823717101084,0.9869000315785612
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4183600221199856,0.9747323761131207
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17836070771767792,0.9892275766313174
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3450791952201326,0.9791583065900389
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.7076296221359434,0.9572614059710096
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.3625676976222942,0.978102056
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.8213078094174648,0.9503956025278022
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.4422556992150853,0.9732891526944449
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.8163967865989897,0.9506922127938795
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.33075013276129445,0.9800237367021868
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.45427060356826593,0.9725634904222837
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6525480547878922,0.9605881586559284
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.4724345660718939,0.9714664444605035
+"('PM1_OPCN3', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.5613351759055677,0.9660971284316711
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.34281465525136656,0.9792950776512833
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6911407455134967,0.9582572820365617
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.36492972101972015,0.9779593975324308
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.46466949552039366,0.9719354301947429
+"('PM1_OPCN3', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3820984900328224,0.9769224581140191
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.7321894535370641,0.9557780697300752
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.7016345966735791,0.9576234865728025
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.19662239611064714,0.9881246283345019
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.7481014572760498,0.9548170349645497
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.7134219571414888,0.9569115672325822
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.1794564658498037,0.9891613963012437
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.7432056912108883,0.9551127237709175
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.4241876258467765,0.9743804072553313
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",1.569003618,0.9052371374016022
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.4243223611943468,0.9743722696659187
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.5767448224672787,0.965166434
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.20061860370038617,0.9878832700186673
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.34306494561845985,0.9792799609036883
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17560229398310956,0.9893941761080464
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.36077782954790333,0.9782101586629934
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.20708962106044496,0.9874924410097412
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1729549539815187,0.9895540670821454
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.360942899,0.9782001890094322
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17085829582965473,0.9896806986119273
+"('Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.41886799240582145,0.974701696
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.4674729996839554,0.9717661073985273
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2429394352940352,0.9853272254667297
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5444958420505884,0.9671141710070995
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19150228665546443,0.9884338667730067
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.4752355700003091,0.9712972726705933
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19729383275199874,0.9880840756821917
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19440675662323686,0.9882584459611315
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.7977418108262707,0.9518189144061782
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19558024292400453,0.9881875710951872
+"('Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.5390107401166551,0.9674454538384406
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.24209071722025338,0.9853784853575903
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6467322672875956,0.9609394138509608
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.39292941510919727,0.9762683044504114
+"('Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2451872702186158,0.9851914633373888
+"('Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2031807154551622,0.9877285265614704
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.4316495907462018,0.9739297281450752
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.27217592078166114,0.9835614340908423
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.45399619993005724,0.9725800635352889
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.21196003690009788,0.9871982832769219
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.6165344812871479,0.9627632647414193
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.21375494701261682,0.9870898763756026
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2543123257115837,0.9846403388083891
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5714502356442012,0.9654862107733012
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2596825440883932,0.9843159945810224
+"('Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.7961918540867107,0.9519125268974905
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.34236715539124907,0.9793221052293429
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4099132547180442,0.9752425341838912
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.24843816001930913,0.9849951198618212
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.30619777401151815,0.9815066216185835
+"('Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3147016844301976,0.9809930122900963
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.5175891506651569,0.9687392501781978
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",1.0284272568353934,0.9378862421197622
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.5207144386050219,0.9685504926582931
+"('Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.6782370519929006,0.9590366243670687
+"('Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.635419868,0.961622647
+"('OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.7118211442325862,0.9570082512758864
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature')",0.61100179,0.9630974217982091
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature')",0.40997381497696583,0.9752388765355404
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3')",1.1946819857119177,0.9278449816346428
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity')",0.26431058995732176,0.984036475
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 2')",0.9381641075525844,0.9433378512275491
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.621961087,0.9624355149136591
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3')",0.547821349,0.9669133208789585
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.16059436158427529,0.9903006078202635
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 2')",0.3422450232871024,0.9793294816226619
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3')",0.7407461715046848,0.9552612709924321
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16184244889549304,0.9902252272889259
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 2')",0.3918614790257909,0.9763328044166223
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity')",0.2780328881821476,0.983207692
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'Bin 2')",1.180093017120492,0.9287261092562489
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Humidity', 'Bin 2')",0.27972720128501316,0.9831053606002249
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.6189110472878349,0.9626197276616969
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.5029594325938687,0.9696228389396746
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.18813772022454575,0.9886370759579763
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.46095969589837854,0.97215949
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.4959991079969419,0.9700432205601616
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.18017311281830228,0.989118113
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.532883521,0.9678155184927245
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.2780886278334347,0.9832043252610347
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3', 'Bin 2')",0.7556760886117231,0.954359551
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.34209587060206936,0.9793384899737181
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.48827670459668804,0.970509629
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2426647259715798,0.9853438170420978
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.7508731807477285,0.9546496316217401
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.246256844,0.9851268644779305
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5513208039422444,0.9667019648664488
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.24787296555974084,0.9850292558219327
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19467493232352912,0.9882422489959046
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5127155887552544,0.9690335979237229
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19186338929999325,0.9884120573138708
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.32318116719171375,0.9804808783149437
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.39476818401234437,0.9761572486166724
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.3454950078756116,0.9791331928190509
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.18523812244504814,0.9888122025050692
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.5940907099331629,0.964118798
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.39312051214350985,0.9762567627931459
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.18424945468117057,0.9888719149151608
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.8120568942376793,0.9509543285843401
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.27804510879731054,0.9832069536733556
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",0.9121633669889442,0.9449082138305848
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.295145202,0.9821741620537703
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.36417379383779913,0.9780050531465161
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.15019987991807393,0.9909284016804649
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.44907153811632605,0.972877498
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17770849352796678,0.9892669683082654
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5085439658030612,0.9692855507733756
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19904540453960276,0.987978286
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17804768601511303,0.9892464821534291
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3400525601144848,0.9794618994730837
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.18634584854097452,0.9887452993477844
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2931994330998548,0.9822916803525539
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.8309433626197508,0.9498136455496387
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.3995659550688691,0.9758674783992952
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.796406599,0.9518995569846304
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.25803238914113436,0.9844156587275895
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.6838019031738146,0.9587005249331093
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2671764427695058,0.9838633867712197
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.29286536940524127,0.9823118567445212
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.677877762,0.9590583243255772
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.3029140502451858,0.981704948
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.38481602666803605,0.9767583274849752
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.29141017666095903,0.9823997457898441
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5623106518576942,0.9660382127653411
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.38747426035150917,0.9765977785668997
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3654515615110884,0.9779278800150589
+"('Reject Count Ratio', 'PM1_OPCN3', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.29525160121731264,0.982167736
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.5886871213136355,0.9644451573240033
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.3613373559253582,0.9781763650371381
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.1979718118797624,0.9880431278843675
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.3912536488731146,0.9763695154379266
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.7270067641915506,0.9560910877962885
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16646748939121833,0.9899458894518272
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.7672534893579647,0.9536603127211981
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.3568238283953196,0.9784489678433388
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",1.4140818967392168,0.91459392
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.3651504708681421,0.9779460649388556
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.4903859258168876,0.9703822390338088
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16843254309118497,0.9898272064152486
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5321955398328246,0.9678570704088122
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1675195049808797,0.9898823510331514
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.508015808,0.9693174498207584
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.1642976920394763,0.9900769383582613
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1649957591939297,0.9900347773070759
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6845305746834657,0.9586565154755382
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.1627720262114064,0.9901690837552458
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.37125017846085967,0.9775776618670426
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.6552687541554996,0.9604238370078378
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.1703295339828227,0.9897126341573071
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5330530904628707,0.9678052770594521
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.24275669086004165,0.9853382626533188
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.6620417322668513,0.9600147705233193
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.25800873752955084,0.9844170872102223
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.18841039821323877,0.9886206070687512
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4867601172610833,0.9706012264179514
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2487316426436035,0.9849773944383201
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.48203529972470766,0.9708865904731455
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2569029000878738,0.9844838762987559
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5067469312498278,0.9693940859842037
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2469714696205659,0.9850837033291566
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1990651178025543,0.9879770956599919
+"('Reject Count Ratio', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.19470756404087164,0.9882402781432491
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.5137051434615467,0.9689738319451111
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.21950965021749716,0.98674231
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5555077760849448,0.966449085
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19125523086828775,0.9884487881621916
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.3959884855183932,0.9760835462602016
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19453060179992634,0.9882509661036419
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1919987941877258,0.9884038792863472
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5532479394443026,0.9665855719692539
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19378810723376805,0.98829581
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.42617298324297254,0.9742604979396325
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.23402007152698487,0.9858659268651904
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3778877748934274,0.9771767720083007
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.20003563133802882,0.9879184797079532
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17351565015290296,0.9895202028044318
+"('Reject Count Ratio', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.20420389493028185,0.9876667297530299
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.43555867111746943,0.9736936320380326
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.7341625068972157,0.9556589035392895
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.4230086297805743,0.9744516148937045
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.4304891693679047,0.9739998139309697
+"('Reject Count Ratio', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.34682438264430254,0.9790529027820397
+"('Reject Count Ratio', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.38477633145688933,0.9767607249503455
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.4877405093061471,0.9705420138351362
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.35640020858702015,0.9784745531416972
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.19155662402532328,0.9884305849674995
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.3854273856288178,0.9767214033348075
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.48748577306828617,0.9705573990992826
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16356346449511724,0.9901212833827793
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.3891466017619177,0.9764967744280373
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.310016267,0.9812759966902663
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",0.8644335191429118,0.9477909458790252
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.2605031533390758,0.9842664323742912
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.5228755262742694,0.9684199697891709
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.18473527060060807,0.9888425731681448
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.42363745825629895,0.9744136356400142
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16538180866797608,0.9900114611382352
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.49913211263810664,0.9698539969758725
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.1836054645317231,0.9889108098860536
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1612927002648319,0.9902584303697591
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.36326761275634323,0.9780597836215352
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.16403377498153798,0.9900928781149414
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2989003904003158,0.9819473605388841
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.4817525494158912,0.9709036676986913
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.2287188445935338,0.9861861042272975
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5265820339144323,0.9681961084352324
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1865771497568802,0.9887313294849412
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.48896400130890305,0.9704681187827419
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17171077305898688,0.9896292116799453
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1810471020857155,0.9890653268968437
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4890766685244072,0.9704613140388006
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2386098230508319,0.9855887203705279
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.28792388619268344,0.9826103067221876
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.228512951,0.9861985395792616
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5160273762064328,0.9688335764224197
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.22628615133340615,0.9863330312162042
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.34741557185981636,0.9790171968207773
+"('PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.19512663366905028,0.9882149676613976
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.38961568526207846,0.976468443
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.22940824212808056,0.9861444667937702
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.40390503805467964,0.9756054114925582
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.22369649426557806,0.9864894383233037
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.4094931616973384,0.9752679064754187
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17545393151872013,0.9894031367322716
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.22586589959946257,0.986358413
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4125277864792602,0.9750846247238812
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.24021572805438599,0.9854917287807908
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3709494987245455,0.9775958219733767
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17740572665988188,0.9892852544707659
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4378742621577375,0.9735537776533215
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.23101516793774413,0.9860474135505685
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1762646322124834,0.9893541729710809
+"('PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.21197469710303268,0.987197398
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.47295000161092837,0.9714353137820216
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5888464379460284,0.9644355351026308
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.4716426842698646,0.9715142716200755
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3657153148441539,0.97791195
+"('PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3713927061906217,0.977569054
+"('PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3480361221826077,0.9789797175413765
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.468463314,0.9717062955271559
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.19548914915786741,0.9881930728709294
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.5088496839908181,0.9692670863604892
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.30514648382476156,0.9815701162252152
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5143395873088306,0.9689355135407156
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17004268822038193,0.9897299587353157
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16873724357255754,0.9898088034686131
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.36227863480906375,0.9781195147657245
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.16837110834548286,0.9898309168798387
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3970381634842796,0.9760201490266179
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17381244524594916,0.989502277
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.346278859,0.9790858506614307
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.1955305893457523,0.9881905700144759
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1682370248819221,0.9898390150975163
+"('Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1674256406494202,0.9898880201422877
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2546697040581502,0.9846187542850864
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4820495754305917,0.9708857282656019
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.25000309184203057,0.9849006029227868
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.19744965090737784,0.9880746647577804
+"('Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.19042378124515566,0.9884990050931778
+"('Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.37984025097514906,0.9770588486201359
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2684106670109904,0.9837888435255054
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5610408573449056,0.9661149043430884
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2530546621454533,0.9847162977152755
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.21850436073716548,0.9868030267883334
+"('Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.25782143959163006,0.9844283994140657
+"('Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2507187707663357,0.9848573781763317
+"('Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.5212144501641766,0.9685202935394771
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature')",0.5408361765475971,0.9673352032439103
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3')",0.5388147818479809,0.9674572890989067
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity')",0.2000685629766539,0.9879164907409995
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 2')",0.5690982757601335,0.9656282617213018
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3')",0.5433386440187896,0.967184062
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.19685074322761273,0.9881108368899038
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 2')",0.5626873641006043,0.9660154605357681
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity')",0.30557185218830857,0.9815444253196429
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'Bin 2')",0.8801071832024359,0.9468443060773097
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Humidity', 'Bin 2')",0.3203697599161832,0.9806506784341591
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.31120945972251257,0.9812039316317559
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.15878659238532644,0.9904097913697859
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.46510190699039017,0.9719093139077878
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16142715198940996,0.9902503099102794
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.3094326583274242,0.9813112448237413
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.15976192057827576,0.9903508846276435
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.15662410401110557,0.9905403988370641
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.7235840664748782,0.9562978079273018
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.1990784096738458,0.9879762928729502
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.271770819,0.9835859009739076
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.6709558795689611,0.9594763841828641
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.24747336627153324,0.9850533903567497
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.4251568035946391,0.9743218719806451
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17950022882743583,0.9891587531556263
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.514126212,0.9689484007219937
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.24517300117934163,0.9851923251422903
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17956125953714117,0.9891550670935342
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6702107253994921,0.9595213891410255
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.24955506,0.9849276626456597
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.28118961640988194,0.9830170353459274
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2486686740401949,0.9849811975430707
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5251048685918376,0.968285325
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2616534641807829,0.9841969572328713
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2511313131405139,0.9848324619200046
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2562031120815537,0.9845261412839584
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.49385777013057736,0.9701725506035721
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.17880783898800395,0.9892005713149169
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.32734138777951666,0.9802296141320841
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1808243301500018,0.9890787816181041
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.33389246310976306,0.9798339498746331
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.18290328038556755,0.9889532195905337
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17972892347304675,0.9891449407213957
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3880332865740852,0.9765640151488193
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.18099240579726977,0.9890686303798999
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2746248220255163,0.9834135281909135
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17602065814323362,0.9893689082342371
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.37257131506502406,0.9774978693891476
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.20649495753390704,0.9875283568084154
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.18234108251600953,0.9889871745660737
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17833804961579966,0.9892289451091021
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.28635370597176013,0.9827051406478956
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5531346660130574,0.966592413
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.30364617112848474,0.9816607303731208
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.28277751549265073,0.9829211312569315
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.28984044298332956,0.9824945527457477
+"('Reject Count Ratio', 'PM1_OPCN3', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2690069599462378,0.9837528293156919
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.5074957076145122,0.9693488622568925
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16124255484219444,0.9902614589948951
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.3248453871929762,0.9803803646835411
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16464349698232042,0.9900560528319872
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5348302716855463,0.9676979409270802
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.16590519045182142,0.9899798505316662
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16083584186667513,0.9902860231739561
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.38544885169200777,0.9767201068523944
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.16057237294199614,0.990301936
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3535801283712556,0.9786448770791081
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16159691295448267,0.990240057
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5427840713480482,0.9672175565506637
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.15786435452034006,0.9904654916238127
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16366656988103606,0.9901150561431427
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16063760196456095,0.9902979962378752
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.18576983607338257,0.9887800886814103
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4729870258456146,0.9714330776351928
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.18677405260028995,0.9887194371751448
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.19165180818617797,0.9884248361448364
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1881422625451115,0.9886368016161617
+"('Reject Count Ratio', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.19535427777257247,0.9882012186765909
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19027514296356784,0.9885079823758908
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3808390496379709,0.976998524
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19096263274714714,0.98846646
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1907570535770064,0.9884788764970217
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1929960859836574,0.9883436460119598
+"('Reject Count Ratio', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1970078234972172,0.9881013497377799
+"('Reject Count Ratio', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3383055152488471,0.9795674154646804
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.35272179638505935,0.9786967176199116
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.16109287501436986,0.9902704991837108
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.3811847076430441,0.9769776476840512
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1613922046513622,0.9902524206191115
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.4361009541127322,0.9736608798579961
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19600351407692915,0.9881620068545123
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.16018223095744533,0.9903254992083513
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3757014354787045,0.9773088200030883
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.16259741120080337,0.9901796299503401
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2436294386515084,0.9852855514434113
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.15910542037450276,0.9903905351663028
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3072489956928363,0.9814431311494638
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.18283598945601837,0.9889572837501306
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16142977178063397,0.9902501516831644
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16042198459077897,0.9903110188461937
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17603533187210296,0.9893680219873624
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.6896072942743797,0.9583498976477822
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.17778197836355158,0.9892625300563084
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1822192085769771,0.9889945353670352
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1816369761270066,0.9890297003679501
+"('PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.24727226042736186,0.9850655365145163
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.23304891160889651,0.9859245818566973
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3624128309260119,0.9781114097441382
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.23700394160905583,0.985685711
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2338711327646579,0.9858749222959908
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.21167714155275336,0.9872153692623367
+"('PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.24559469404797996,0.9851668562250009
+"('PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3298704103986973,0.9800768691541605
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.20805998414650873,0.9874338341443717
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.35482643773647016,0.9785696039300931
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.1633361411138645,0.9901350129969739
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16761491693805108,0.9898765884523103
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16648935248821017,0.9899445689898265
+"('Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16243287542825796,0.9901895673912924
+"('Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2646556921878111,0.9840156321442076
+"('Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2682600877837133,0.9837979380352072
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3')",0.4584554318392593,0.9723107400130864
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity')",0.19731179475868518,0.9880829908337233
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 2')",0.37752299566275405,0.9771988035216266
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.1593599613040548,0.9903751616981614
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'Bin 2')",0.5799668784312061,0.9649718324499843
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.20104171847188862,0.9878577152229363
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.15443006172461857,0.9906729120609759
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.5036054480075384,0.9695838216492199
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.2118472115552578,0.9872050975713755
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.24741355621494882,0.9850570026952489
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2060596232959047,0.9875546496213262
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.46222716124497876,0.9720829394705205
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19961953065343968,0.9879436108749896
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.15790906242382938,0.9904627914076581
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.15408002029157675,0.9906940534578763
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.17885684099050184,0.9891976117487458
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4984217744159582,0.9698968991607867
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.21100317047196046,0.9872560749867838
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.18340073703147344,0.988923175
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17825778155694144,0.9892337930463191
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.27354689880292987,0.9834786313487852
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.221918298,0.9865968357420986
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.377251218,0.9772152180306947
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19035014473446768,0.988503453
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17959716840448134,0.9891528983113701
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17915898700933616,0.989179363
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.20923728747084328,0.9873627287422606
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.26445102220743827,0.9840279935645431
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.2047486090249481,0.9876338307422684
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.4591238128503571,0.9722703719111918
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.19034277802682742,0.9885038974317047
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2275997366189499,0.9862536948141019
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16187331531082627,0.9902233630549356
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.15784046003198196,0.9904669347754353
+"('Reject Count Ratio', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2290962097418892,0.9861633125642979
+"('Reject Count Ratio', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1888844908618585,0.988591973
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.19313830030199394,0.9883350567163363
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.36548896732746755,0.9779256208219013
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.16945116340862953,0.989765685
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.2110307612338801,0.9872544085919132
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.33050531374229475,0.9800385229976389
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.3125782659957253,0.9811212600564216
+"('PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.25125019436468055,0.9848252818695681
+"('PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.24155605198329486,0.985410777
+"('Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.16189199587289607,0.9902222348079919
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity')",0.15369997264364182,0.9907170071353774
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'Bin 2')",0.3259600435313038,0.9803130429615055
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'OPCN3 Interior Humidity', 'Bin 2')",0.18656024102124655,0.9887323507191649
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.1566798430909201,0.9905370323727031
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.15794420967722939,0.9904606686245703
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.18396236669561003,0.9888892541226807
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.22261274739759163,0.9865548932109627
+"('Reject Count Ratio', 'PM1_OPCN3', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17825046355520405,0.9892342350305091
+"('Reject Count Ratio', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.29955061601733163,0.9819080889654458
+"('PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.17156107673114637,0.9896382528653099
+"('Reject Count Ratio', 'PM1_OPCN3', 'Bin 0', 'Reject Count Glitch', 'Bin 1', 'OPCN3 Interior Temperature', 'Ambient Temperature', 'Bin 3', 'OPCN3 Interior Humidity', 'Bin 2')",0.18120603651437545,0.9890557277593695
